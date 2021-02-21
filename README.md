@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishwas132
 - 👀 I’m interested in new technologies and problem solving.
-- 🌱 I’m currently learning competitive programming.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me mail: vishwaslekhwar@gmail.com
 
