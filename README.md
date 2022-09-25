@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vishwas132
-- 👀 I’m interested in new technologies and problem solving.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on open-source projects.
-- 📫 How to reach me mail: vishwaslekhwar@gmail.com
+-  Hi, I’m @Vishwas132
+-  I’m interested in new technologies and problem solving.
+-  I’m currently learning web development.
+-  I’m looking to collaborate on open-source projects.
+-  How to reach me mail: vishwaslekhwar@gmail.com
 
 <!---
 Vishwas132/Vishwas132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
