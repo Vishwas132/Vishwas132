@@ -1,7 +1,7 @@
 -  Hi, I’m @Vishwas132
--  I’m interested in new technologies and problem solving.
+-  I’m interested in new technologies and solving problems.
 -  I’m currently learning web development.
--  I’m looking to collaborate on open-source projects.
+-  My portfolio website: https://vishwaslekhwar.netlify.app/
 -  How to reach me mail: vishwaslekhwar@gmail.com
 
 <!---
